@@ -1,1 +1,1 @@
-hello world git repositry, I love data science
+hello world git repositry
